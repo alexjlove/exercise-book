@@ -1,25 +1,25 @@
 ,can_rate,num_votes,rating,tconst,title,type,year
-0,True,1719712,9.3,tt0111161,The Shawshank Redemption,feature,1994
-1,True,1175420,9.2,tt0068646,The Godfather,feature,1972
-2,True,805598,9.0,tt0071562,The Godfather: Part II,feature,1974
-3,True,1705800,9.0,tt0468569,The Dark Knight,feature,2008
-4,True,458057,8.9,tt0050083,12 Angry Men,feature,1957
-5,True,880711,8.9,tt0108052,Schindler's List,feature,1993
-6,True,1347362,8.9,tt0110912,Pulp Fiction,feature,1994
-7,True,1235707,8.9,tt0167260,The Lord of the Rings: The Return of the King,feature,2003
-8,True,511957,8.9,tt0060196,"The Good, the Bad and the Ugly",feature,1966
-9,True,1372635,8.8,tt0137523,Fight Club,feature,1999
-10,True,1258363,8.8,tt0120737,The Lord of the Rings: The Fellowship of the Ring,feature,2001
-11,True,853116,8.8,tt0080684,Star Wars: Episode V - The Empire Strikes Back,feature,1980
-12,True,1277302,8.8,tt0109830,Forrest Gump,feature,1994
-13,True,1496384,8.8,tt1375666,Inception,feature,2010
-14,True,1118991,8.7,tt0167261,The Lord of the Rings: The Two Towers,feature,2002
-15,True,691028,8.7,tt0073486,One Flew Over the Cuckoo's Nest,feature,1975
-16,True,741683,8.7,tt0099685,Goodfellas,feature,1990
-17,True,1238648,8.7,tt0133093,The Matrix,feature,1999
-18,True,233118,8.7,tt0047478,Seven Samurai,feature,1954
-19,True,926139,8.7,tt0076759,Star Wars: Episode IV - A New Hope,feature,1977
-20,True,541780,8.7,tt0317248,City of God,feature,2002
-21,True,1043651,8.6,tt0114369,Se7en,feature,1995
-22,True,905049,8.6,tt0102926,The Silence of the Lambs,feature,1991
-23,True,280368,8.6,tt0038650,It's a Wonderful Life,feature,1946
+0,True,1720006,9.3,tt0111161,The Shawshank Redemption,feature,1994
+1,True,1175594,9.2,tt0068646,The Godfather,feature,1972
+2,True,805725,9.0,tt0071562,The Godfather: Part II,feature,1974
+3,True,1706048,9.0,tt0468569,The Dark Knight,feature,2008
+4,True,458162,8.9,tt0050083,12 Angry Men,feature,1957
+5,True,880875,8.9,tt0108052,Schindler's List,feature,1993
+6,True,1347581,8.9,tt0110912,Pulp Fiction,feature,1994
+7,True,1235884,8.9,tt0167260,The Lord of the Rings: The Return of the King,feature,2003
+8,True,512031,8.9,tt0060196,"The Good, the Bad and the Ugly",feature,1966
+9,True,1372859,8.8,tt0137523,Fight Club,feature,1999
+10,True,1258536,8.8,tt0120737,The Lord of the Rings: The Fellowship of the Ring,feature,2001
+11,True,853279,8.8,tt0080684,Star Wars: Episode V - The Empire Strikes Back,feature,1980
+12,True,1277539,8.8,tt0109830,Forrest Gump,feature,1994
+13,True,1496604,8.8,tt1375666,Inception,feature,2010
+14,True,1119156,8.7,tt0167261,The Lord of the Rings: The Two Towers,feature,2002
+15,True,691134,8.7,tt0073486,One Flew Over the Cuckoo's Nest,feature,1975
+16,True,741815,8.7,tt0099685,Goodfellas,feature,1990
+17,True,1238826,8.7,tt0133093,The Matrix,feature,1999
+18,True,233154,8.7,tt0047478,Seven Samurai,feature,1954
+19,True,926291,8.7,tt0076759,Star Wars: Episode IV - A New Hope,feature,1977
+20,True,541855,8.7,tt0317248,City of God,feature,2002
+21,True,1043838,8.6,tt0114369,Se7en,feature,1995
+22,True,905213,8.6,tt0102926,The Silence of the Lambs,feature,1991
+23,True,280409,8.6,tt0038650,It's a Wonderful Life,feature,1946
